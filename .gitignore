@@ -1,2 +1,3 @@
 dip-backend/venv/
 __pycache__/
+migrations/
