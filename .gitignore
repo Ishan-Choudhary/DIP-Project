@@ -5,8 +5,8 @@ temp_docs/
 
 
 # dependencies
-/node_modules
-/.pnp
+dip-frontend/node_modules
+dip-frontend/.pnp
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -15,14 +15,14 @@ temp_docs/
 !.yarn/versions
 
 # testing
-/coverage
+dip-frontend/coverage
 
 # next.js
-/.next/
-/out/
+dip-frontend/.next/
+dip-frontend/out/
 
 # production
-/build
+dip-frontend/build
 
 # misc
 .DS_Store
